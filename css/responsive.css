@@ -1,0 +1,965 @@
+@media (min-width: 1500px) {
+        .container {
+                max-width: 1344px;
+        }
+}
+
+@media (max-width: 1600px) {
+
+        .navigation,
+        .banner-inner {
+                max-width: 1230px;
+        }
+
+        .title h3 {
+                font-size: 44px;
+                margin: 0 0 11px 0;
+        }
+
+        .fees-payment-sec {
+                padding: 55px 0 0 0;
+        }
+
+        .banner-sec .text-box h1 {
+                font-size: 50px;
+                line-height: 58px;
+        }
+
+        .fee-price h4 {
+                font-size: 47.3631px;
+                height: 85px;
+        }
+
+        .banner-sec .image-holder {
+                max-width: 900px;
+                right: 63px;
+                top: 70px;
+        }
+
+        .cutomize-payment-box {
+                padding: 25px 20px;
+        }
+
+        .faq-sec {
+                padding: 90px 0 0 0;
+        }
+}
+
+@media (max-width: 1400px) {
+        .banner-sec .image-holder {
+                max-width: 850px;
+                right: 40px;
+                top: 70px;
+        }
+
+        .cutomize-payment-box .text-box h4 {
+                font-size: 20px;
+        }
+
+}
+
+@media (max-width: 1300px) {
+        .banner-sec .image-holder {
+                max-width: 750px;
+                right: 30px;
+                top: 50%;
+                transform: translate(0, -50%);
+        }
+
+        .fee-head span {
+                max-width: 92px;
+                height: 84px;
+        }
+
+        .fee-head span img {
+                width: 35px;
+        }
+
+        .fees-payment-box {
+                padding: 58px 35px 42px;
+        }
+
+        .fee-body ul li p {
+                padding-left: 16px;
+                font-size: 17.2907px;
+        }
+
+        .fee-body ul {
+                margin: 0 0 50px 0;
+        }
+
+        .faq-sec {
+                padding: 70px 0 0 0;
+        }
+
+        .accordion-button {
+                font-size: 22px;
+        }
+}
+
+@media (max-width: 1199px) {
+        .navbar-nav .nav-item {
+                padding: 0 15px;
+        }
+
+        .fees-payment-inner .tab-content [class*="col-"] {
+                padding: 0 15.5px;
+        }
+
+        .trust-sec {
+                padding: 65px 0 79px 0;
+        }
+
+
+        .fees-payment-box {
+                padding: 36px 20px 35px;
+        }
+
+        .fee-head .text-box {
+                padding-left: 18px;
+        }
+
+        .fee-head .text-box h4 {
+                font-size: 28.5633px;
+                margin: 0 0 14px 0;
+        }
+
+        .fee-head .text-box p {
+                font-size: 19.5452px;
+        }
+
+        .fee-body ul {
+                margin: 0 0 40px 0;
+        }
+
+        .register-btn {
+                margin-left: 15px;
+        }
+
+        .banner-sec {
+                padding: 200px 0 100px 0;
+        }
+
+        .banner-sec .text-box h1 {
+                font-size: 40px;
+                line-height: 48px;
+        }
+
+        .banner-sec .text-box p {
+                font-size: 18px;
+                line-height: 32px;
+                margin: 20px 0;
+                max-width: 600px;
+        }
+
+        .faq-sec {
+                padding: 60px 0 0 0;
+        }
+
+        .banner-sec .image-holder {
+                max-width: 650px;
+                right: 15px;
+                top: 50%;
+                transform: translate(0, -50%);
+        }
+
+        .trust-inner ul {
+                padding: 0;
+                margin: 20px 0 0 0;
+        }
+
+        .title h3 {
+                font-size: 36px;
+                margin: 0 0 15px 0;
+        }
+
+        .cutomize-payment-sec {
+                padding: 50px 0;
+        }
+
+        .cutomize-payment-box {
+                padding: 20px;
+        }
+
+        .cutomize-payment-box span {
+                width: 60px;
+                height: 60px;
+        }
+
+        .cutomize-payment-box .text-box {
+                padding-left: 15px;
+        }
+
+        .cutomize-payment-box .text-box h4 {
+                font-size: 16px;
+                margin: 0 0 10px 0;
+        }
+
+        .cutomize-payment-box .text-box p {
+                font-size: 14px;
+                line-height: 22px;
+        }
+
+        .service-now-inner {
+                padding: 40px 40px;
+        }
+
+        .service-now-inner .text-box h3 {
+                font-size: 44px;
+                margin: 0 0 15px 0;
+        }
+
+        .service-now-inner .text-box p {
+                font-size: 18px;
+        }
+
+        .footer-left p {
+                font-size: 14px;
+                line-height: 22px;
+        }
+
+        .footer-link h4 {
+                font-size: 16px;
+                margin: 0 0 30px 0;
+        }
+
+        .footer-link ul li {
+                margin: 0 0 15px 0;
+        }
+
+        .footer-link ul li a {
+                font-size: 14px;
+        }
+
+        .footer-link form .form-control {
+                height: 59px;
+                font-size: 12px;
+                padding-left: 40px;
+        }
+
+        .footer-link form span {
+                left: 15px;
+        }
+
+        .copyright p {
+                font-size: 14px;
+        }
+
+        .blog-detail-box {
+                display: flex;
+                align-items: center;
+                flex-direction: column;
+                text-align: center;
+        }
+        .blog-detail-box .text-box {
+                padding-left: 0;
+        }
+}
+
+@media (max-width: 991px) {
+        header {
+                padding: 15px 0;
+        }
+        .accordion-body p {
+                font-size: 17px;
+                line-height: 25px;
+            }
+        .faq-inner {
+                margin: 40px 0 0 0;
+        }
+
+        .faq-sec {
+                padding: 50px 0 0 0;
+        }
+
+        .fees-payment-inner .nav-pills {
+                margin: 0 0 40px 0;
+        }
+
+        .fee-price h4 {
+                font-size: 39.3631px;
+                height: 75px;
+        }
+
+        .navbar-brand img {
+                height: 55px;
+        }
+
+        .fee-body a {
+                height: 65px;
+                font-size: 19.5452px;
+        }
+
+        .navbar-nav .nav-item {
+                padding: 0 10px;
+        }
+
+        .header-right ul li a {
+                font-size: 14px;
+        }
+
+        .register-btn {
+                width: 115px;
+                height: 40px;
+                margin-left: 20px;
+        }
+
+        .navbar-nav .nav-item .nav-link {
+                font-size: 14px;
+        }
+
+        .banner-sec {
+                padding: 140px 0 70px 0;
+        }
+
+        .banner-sec .text-box h1 {
+                font-size: 30px;
+                line-height: 38px;
+        }
+
+        .banner-sec .text-box p {
+                font-size: 16px;
+                line-height: 26px;
+                max-width: 330px;
+                margin: 15px 0;
+        }
+
+        .banner-sec .image-holder {
+                max-width: 460px;
+        }
+
+        .trust-sec {
+                padding: 50px 0;
+        }
+
+        .trust-inner ul {
+                margin: 20px -10px 0;
+        }
+
+        .trust-inner ul li {
+                padding: 0 10px;
+        }
+
+        .title p {
+                font-size: 14px;
+        }
+
+        .product-finance-inner .nav-pills .nav-item {
+                padding: 0 10px;
+        }
+
+        .product-finance-inner .nav-pills .nav-item .nav-link {
+                font-size: 14px;
+                padding: 0 25px;
+                height: 45px;
+        }
+
+        .product-finance-inner .image-holder {
+                margin: 40px 0 0 0;
+        }
+
+        .cutomize-payment-box {
+                padding: 15px;
+        }
+
+        .cutomize-payment-box .text-box {
+                padding-left: 10px;
+        }
+
+        .cutomize-payment-box .text-box h4 {
+                font-size: 16px;
+                margin: 0 0 5px 0;
+        }
+
+        .service-now-inner {
+                padding: 30px;
+        }
+
+        .service-now-inner .text-box h3 {
+                font-size: 35px;
+                margin: 0 0 10px 0;
+        }
+
+        .service-now-inner .text-box p {
+                font-size: 16px;
+                line-height: 26px;
+        }
+
+        .service-now-inner .btn-default {
+                max-width: 160px;
+                height: 50px;
+        }
+
+        .footer-left p {
+                font-size: 16px;
+                line-height: 26px;
+                margin: 20px 0;
+        }
+
+        .footer-link {
+                margin-top: 30px;
+        }
+
+        .copyright p {
+                font-size: 12px;
+        }
+}
+
+@media (max-width: 767px) {
+
+        .accordion-body {
+                padding: 5px 0 0 76px;
+            }
+        .container,
+        .container-sm {
+                max-width: 100%;
+        }
+
+        header {
+                padding: 20px 0;
+        }
+
+        .navbar-brand img {
+                height: 50px;
+        }
+
+        .navbar-toggler {
+                padding: 0;
+                border: none;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                flex-direction: column;
+        }
+
+        .navbar-toggler:focus {
+                box-shadow: none
+        }
+
+        .navbar-toggler-icon {
+                width: 24px;
+                height: 2px;
+                background: #B3E0B9;
+                margin-bottom: 6px;
+                display: flex;
+                align-items: center;
+        }
+
+        .navbar-toggler-icon:last-child {
+                margin: 0;
+        }
+
+        .navbar-collapse {
+                background-color: #141318;
+        }
+
+        .navbar-nav .nav-item {
+                padding: 0;
+        }
+
+        .navbar-nav .nav-item .nav-link {
+                justify-content: flex-start;
+                font-weight: 400;
+                font-size: 16px;
+                padding: 10px 15px;
+        }
+
+        .header-right {
+                padding: 20px 15px;
+        }
+
+        .header-right ul li a {
+                font-size: 16px;
+        }
+
+        .register-btn {
+                width: 130px;
+                height: 45px;
+                margin-left: 20px;
+        }
+
+        .banner-sec {
+                padding: 120px 0 50px 0;
+        }
+
+        .banner-sec .image-holder {
+                max-width: 100%;
+                position: static;
+                transform: translate(0, 0);
+        }
+
+        .banner-sec .text-box h1 {
+                font-size: 34px;
+                line-height: 46px;
+        }
+
+        .fees-payment-sec {
+                padding: 35px 0 0 0;
+        }
+
+        .fee-price h4 {
+                font-size: 34.3631px;
+                height: 65px;
+        }
+
+        .accordion-body p {
+                font-size: 16px;
+                max-width: 435px;
+        }
+
+        .banner-sec .text-box p {
+                font-size: 18px;
+                line-height: 30px;
+                max-width: 100%;
+                margin: 20px 0;
+        }
+
+        .trust-inner ul {
+                flex-wrap: wrap;
+                justify-content: center;
+        }
+
+        .trust-inner ul li {
+                padding: 10px 10px;
+                width: 25%;
+                text-align: center;
+        }
+
+        .title h3 {
+                font-size: 30px;
+                margin: 0 0 15px 0;
+        }
+
+        .accordion-button {
+                font-size: 20px;
+        }
+
+        .product-finance-sec {
+                padding: 0 0px 50px;
+        }
+
+        .product-finance-inner .nav-pills .nav-item {
+                padding: 0;
+        }
+
+        .product-finance-inner .nav-pills .nav-item .nav-link {
+                font-size: 12px;
+                padding: 0 18px;
+                height: 40px;
+        }
+
+        .cutomize-payment-inner .title {
+                margin: 0 0 15px 0;
+        }
+
+        .cutomize-payment-box {
+                margin: 0 0 15px 0;
+        }
+
+        .cutomize-payment-box {
+                padding: 20px;
+        }
+
+        .cutomize-payment-inner .image-holder {
+                max-width: 100%;
+                width: 100%;
+                margin: 30px 0 0 0;
+        }
+
+        .payments-products-sec {
+                padding: 50px 0;
+        }
+
+        .payments-products-inner {
+                margin: 30px 0 0 0;
+        }
+
+        .title p br {
+                display: none;
+        }
+
+        .title a {
+                font-size: 16px;
+                margin: 10px 0 0 0;
+        }
+
+        .service-now-inner {
+                border-radius: 15px;
+                padding: 20px;
+        }
+
+        .service-now-inner .btn-default {
+                max-width: 135px;
+                height: 45px;
+                font-size: 14px;
+        }
+
+        .service-now-inner .text-box h3 {
+                font-size: 32px;
+                margin: 0 0 5px 0;
+        }
+
+        .service-now-inner .text-box p {
+                font-size: 14px;
+                line-height: 22px;
+        }
+
+        footer {
+                padding: 50px 0 0 0;
+        }
+
+        .footer-link ul li {
+                margin: 0 0 10px 0;
+        }
+
+        .footer-link h4 {
+                margin: 0 0 20px 0;
+        }
+
+        .copyright {
+                flex-direction: column;
+                padding: 25px 0px;
+                margin: 30px 0 0 0;
+        }
+
+        .copyright p {
+                font-size: 14px;
+        }
+
+        .copyright ul {
+                margin: 15px 0;
+        }
+
+        .copyright ul li {
+                padding: 0 6px;
+        }
+
+        .fee-head .text-box h4 {
+                font-size: 25.5633px;
+                margin: 0 0 8px 0;
+        }
+
+        .fee-head .text-box p {
+                font-size: 17.5452px;
+        }
+
+        .fee-body a {
+                height: 59px;
+                font-size: 17.5452px;
+        }
+
+        .faq-sec {
+                padding: 40px 0 0 0;
+        }
+
+        .faq-inner .btn-default {
+                max-width: 180px;
+                height: 50px;
+                margin: 23px 0 0;
+        }
+
+        .accordion-button strong {
+                font-size: 15px;
+                width: 35px;
+                height: 35px;
+        }
+        .about-banner-sec .text-box h2 {
+                font-size: 45px;
+                margin: 0 0 10px 0;
+        }
+        .about-banner-sec {
+                padding: 120px 0 80px;
+        }
+        .blog-detail-box {
+           flex-wrap: wrap;
+           justify-content: center;
+           text-align: center;
+        }
+        .blog-detail-box .image-holder {
+                max-width: 100%;
+                width: 100%;
+        }
+        .blog-detail-box .text-box {
+                padding-left: 0;
+        }
+        .blog-box .text-box {
+                margin: 30px 0 0 0;
+                text-align: center;
+        }
+        .blog-box {
+                text-align: center;
+        }
+        .blog-detail-box:last-child {
+                margin: 0 auto 20px;
+        }
+        .about-detail .text-box h3 {
+                font-size: 33px;
+                line-height: 37px;
+                margin: 0 0 15px 0;
+        }
+        .about-detail .text-box p {
+                font-size: 18px;
+                line-height: 30px;
+                margin: 0 0 15px 0;
+        }
+        .image-holder {
+                text-align: center;
+        }
+}
+
+@media (max-width: 575px) {
+        .banner-sec {
+                padding: 105px 0 50px 0;
+        }
+        .accordion-body p {
+                font-size: 14px;
+            }
+        .accordion-body {
+                padding: 5px 10px 0 50px;
+        }
+
+        .accordion-button {
+                padding: 0 13px;
+                font-size: 17px;
+        }
+
+        .accordion-button span {
+                padding-left: 10px;
+        }
+
+        .accordion-body p {
+                line-height: 20px;
+        }
+
+        .accordion-button strong {
+                font-size: 13px;
+                width: 30px;
+                height: 30px;
+        }
+
+        .faq-sec {
+                padding: 35px 0 0 0;
+        }
+
+        .fees-payment-inner .nav-pills .nav-item .nav-link {
+                height: 45px;
+                font-size: 15px;
+                padding: 0 43px;
+        }
+
+        .navbar-brand img {
+                height: 43px;
+        }
+
+        .banner-sec .text-box h1 {
+                font-size: 28px;
+                line-height: 38px;
+        }
+
+        .banner-sec .text-box p {
+                font-size: 16px;
+                line-height: 26px;
+                margin: 20px 0;
+        }
+
+        .btn-default {
+                max-width: 185px;
+                height: 50px;
+                font-size: 16px;
+        }
+
+        .trust-inner ul li {
+                width: 33.3%;
+        }
+
+        .title h3 {
+                font-size: 28px;
+                margin: 0 0 15px 0;
+        }
+
+        .product-finance-inner {
+                margin: 30px 0 0 0;
+        }
+
+        .product-finance-inner .nav-pills .nav-item {
+                padding: 0 0 15px;
+        }
+
+        .product-finance-inner .nav-pills .nav-item:last-child {
+                padding: 0;
+        }
+
+        .title h3 {
+                font-size: 24px;
+        }
+
+        .service-now-inner {
+                flex-direction: column;
+        }
+
+        .service-now-inner .text-box h3 {
+                font-size: 28px;
+                margin: 0 0 5px 0;
+        }
+
+        .service-now-inner .text-box {
+                margin-bottom: 15px;
+        }
+        .contact-form h4 {
+                font-size: 30px;
+                margin: 0 0 18px 0;
+        }
+        .contact-form {
+                border-radius: 12px;
+                padding: 33px 30px;
+        }
+        .contact-form form .form-group .form-control {
+                height: 40px;
+                font-size: 16px;
+                padding-left: 12px;
+        }
+        .contact-form form .form-group {
+                margin: 0 0 12px 0;
+        }
+        .blog-inner h3 {
+                font-size: 40px;
+                margin: 0 0 20px 0;
+        }
+        .blog-sec {
+                padding: 40px 0 0 0;
+        }
+        .about-vission-box {
+                padding: 30px 25px;
+                transition: all 0.5s ease-in-out;
+                cursor: pointer;
+                margin: 15px 0;
+        }
+        .about-us-sec {
+                padding: 40px 0 0;
+        }
+        .about-detail .text-box h3 {
+                font-size: 25px;
+                line-height: 30px;
+        }
+        .blog-detail-box .text-box span {
+                margin-top: 6px;
+        }
+        .blog-bottom {
+                margin: 50px 0 30px 0;
+        }
+        .about-vission-box h3 {
+                font-size: 28px;
+                margin: 8px 0 5px;
+        }
+        .about-adapting {
+                padding: 40px 0 0 0;
+        }
+}
+
+@media (max-width: 374px) {
+        .trust-inner ul li {
+                width: 50%;
+                padding: 10px 15px;
+        }
+
+        .product-finance-inner .nav-pills .nav-item .nav-link {
+                font-size: 12px;
+                padding: 0 10px;
+                height: 40px;
+        }
+
+        .title h3 {
+                font-size: 20px;
+        }
+
+        .cutomize-payment-box {
+                flex-direction: column;
+                padding: 15px;
+        }
+
+        .cutomize-payment-box .text-box {
+                padding-left: 0;
+                padding-top: 25px;
+        }
+
+        .cutomize-payment-box .text-box p {
+                font-size: 13px;
+                line-height: 20px;
+        }
+
+        .service-now-inner {
+                border-radius: 15px;
+                padding: 15px;
+        }
+
+        .service-now-inner .text-box h3 {
+                font-size: 24px;
+                margin: 0 0 5px 0;
+        }
+        .about-banner-sec .text-box h2 {
+                font-size: 35px;
+                margin: 0 0 3px 0;
+        }
+        .about-banner-sec {
+                padding: 150px 0 45px;
+        }
+        .blog-inner h3 {
+                font-size: 33px;
+                margin: 0px 0 8px 0;
+        }
+        .blog-box .text-box h4 {
+                font-size: 25px;
+                margin: 6px 0 5px 0;
+        }
+        .blog-box .text-box p {
+                font-size: 16px;
+                line-height: 20px;
+                margin: 0 0 6px 0;
+        }
+        .blog-box .text-box a {
+                font-size: 15px;
+                line-height: 18px;
+        }
+        .contact-info-box p {
+                font-size: 16px;
+        }
+        .contact-sec {
+                padding: 50px 0 0;
+        }
+        .contact-form {
+                border-radius: 12px;
+                padding: 25px 15px;
+        }
+        .fee-head span {
+                max-width: 75px;
+                height: 70px;
+        }
+        .fee-head span img {
+                width: 30px;
+        }
+        .fee-head .text-box {
+                padding-left: 13px;
+        }
+        .fee-head .text-box h4 {
+                font-size: 21.563px;
+                margin: 0 0 8px 0;
+        }
+        .fee-head .text-box p {
+                font-size: 15.545px;
+        }
+        .fee-price {
+                border-bottom: 1px solid rgba(98, 113, 147, 0.1);
+                padding: 28px 0;
+        }
+        .fee-body ul {
+                margin: 0 0 25px 0;
+        }
+        .fee-body ul li {
+                margin-bottom: 25px;
+        }
+        .fee-price h4 {
+                font-size: 25.363px;
+                height: 54px;
+        }
+
+}
